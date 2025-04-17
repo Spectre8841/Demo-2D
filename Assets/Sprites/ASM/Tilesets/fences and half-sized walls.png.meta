@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: a9ad85f4b04c7ee438f290efd784a8cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fences and half-sized walls_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 309
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510bb2f33bbe3045bd9b40c14f7575c
+      internalID: 1706572742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 309
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1d75ebafd1074385bfbea515b82cb
+      internalID: -627588681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 320
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21029f66196a84995916e47e5c92e3
+      internalID: -1461469891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 325
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593bd59da43b0143ac2c83f90a509a4
+      internalID: 1810463240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e93a648b89f0e9468131830ddc41390
+      internalID: -582266027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 324
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9744bee6a7e70e24890a50876dea6845
+      internalID: -1850377063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 356
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7330548389824cbe3e69fc9221391
+      internalID: -792127505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 358
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529dd467baac0e408cdc097ede746e9
+      internalID: 115967972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 358
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6d130bcdbc734fa221b3c836e8922
+      internalID: 1455007898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 329
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823859a2c7a19c42acd94311699ec79
+      internalID: -493203207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5c60420b859943bb78d1063da043d
+      internalID: -1799138397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984878a32703694581d5d13c9ce185b
+      internalID: -1909628237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 296
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9ca3719f337944bd7a0733a0f97ca
+      internalID: 438983924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 298
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10919d58df89fb34da624a8f651bd636
+      internalID: 677399727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 297
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66b536396827e49a5ea5a76e71d4df
+      internalID: -1977637659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23bfb3d4cae8c74c81ceb8a1a8b4016
+      internalID: -1625043392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d33499c28a0fe40bcca9ae3f0b2cf5
+      internalID: 1772104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 258
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ca59802265ab4ead4b449a4573cda
+      internalID: 230629630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade8a6a1100f8f4d9a38766a83f174d
+      internalID: 179520353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dea0c4e8887694c9886665f77878b1
+      internalID: 1975436155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5961c8126ed2543a3587325d16a2a1
+      internalID: 1979369875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 225
+        width: 8
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980ab37487f3774bb037caf29ea8f85
+      internalID: -226860748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 156
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1977d74b261fa5146afccf843904e87f
+      internalID: 1766611074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 232
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d66a860c24fa46aaa272c2f9d64e9
+      internalID: 131176722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021157651b91f2e448e6c379883b03e1
+      internalID: 2020428813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7ad8fa05e07e4a82cdb6f463b7245
+      internalID: -2106153872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b340ea6c6867294790693dc3a8d03cb
+      internalID: -1181756492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 161
+        width: 10
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632899c872ee84a488325bbb1b96bb24
+      internalID: -1515167400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ad00e89b855c40bef0f15194346de
+      internalID: 89038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 162
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a08afb0fb65534ea0f3f4d5cd906f9
+      internalID: 1633231159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 166
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28e1f38597f184cb14c4b8e3b90325
+      internalID: -1991354065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7b4cd0a0a5f64f9202b6c44fd585e
+      internalID: -1432373732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7580a96bebcc439fd62f476aa6a70
+      internalID: 1563407253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c264aca07445489d26cfbde35d30d
+      internalID: 101711318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28704393d2b5be747abeddc9a5bf9685
+      internalID: -1270893786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e50c50d9e3cc541890d5a5d8777e8e
+      internalID: -1605349762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a145ebe4ab914085a3d63c50ddc6e
+      internalID: -558605550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a2432accdcf342bd6e3e1cc71174e
+      internalID: -233654296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381f1206d842f6449a83ad298226b5d
+      internalID: 1582459699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709ba45543a23441922866ed4eedd29
+      internalID: -1607252946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6abba57169534f981b15679d2d4df
+      internalID: 1912565603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d32369b500d6b4ba8ac1547bb89765
+      internalID: -304004548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0dfe715702d134693481fbfae4103c
+      internalID: -1565661363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc291f3e3a200244bb92a2372bf46f4
+      internalID: -533204527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806287dc1688dc43ae4693ca1c44c69
+      internalID: -5949165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 94
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5bfb4be8881ca49882ea93389a8e62
+      internalID: -1165643681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88159b4b005cf7c4bb42273a44b6a480
+      internalID: 1869287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fences and half-sized walls_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f74c2c408452b4cad1b23bd29d5b48
+      internalID: 634160805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fences and half-sized walls_0: 1706572742
+      fences and half-sized walls_1: -627588681
+      fences and half-sized walls_10: -1799138397
+      fences and half-sized walls_11: -1909628237
+      fences and half-sized walls_12: 438983924
+      fences and half-sized walls_13: 677399727
+      fences and half-sized walls_14: -1977637659
+      fences and half-sized walls_15: -1625043392
+      fences and half-sized walls_16: 1772104017
+      fences and half-sized walls_17: 230629630
+      fences and half-sized walls_18: 179520353
+      fences and half-sized walls_19: 1975436155
+      fences and half-sized walls_2: -1461469891
+      fences and half-sized walls_20: 1979369875
+      fences and half-sized walls_21: -226860748
+      fences and half-sized walls_22: 1766611074
+      fences and half-sized walls_23: 131176722
+      fences and half-sized walls_24: 2020428813
+      fences and half-sized walls_25: -2106153872
+      fences and half-sized walls_26: -1181756492
+      fences and half-sized walls_27: -1515167400
+      fences and half-sized walls_28: 89038211
+      fences and half-sized walls_29: 1633231159
+      fences and half-sized walls_3: 1810463240
+      fences and half-sized walls_30: -1991354065
+      fences and half-sized walls_31: -1432373732
+      fences and half-sized walls_32: 1563407253
+      fences and half-sized walls_33: 101711318
+      fences and half-sized walls_34: -1270893786
+      fences and half-sized walls_35: -1605349762
+      fences and half-sized walls_36: -558605550
+      fences and half-sized walls_37: -233654296
+      fences and half-sized walls_38: 1582459699
+      fences and half-sized walls_39: -1607252946
+      fences and half-sized walls_4: -582266027
+      fences and half-sized walls_40: 1912565603
+      fences and half-sized walls_41: -304004548
+      fences and half-sized walls_42: -1565661363
+      fences and half-sized walls_43: -533204527
+      fences and half-sized walls_44: -5949165
+      fences and half-sized walls_45: -1165643681
+      fences and half-sized walls_46: 1869287443
+      fences and half-sized walls_47: 634160805
+      fences and half-sized walls_5: -1850377063
+      fences and half-sized walls_6: -792127505
+      fences and half-sized walls_7: 115967972
+      fences and half-sized walls_8: 1455007898
+      fences and half-sized walls_9: -493203207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

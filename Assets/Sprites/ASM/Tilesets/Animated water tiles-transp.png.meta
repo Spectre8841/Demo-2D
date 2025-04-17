@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: ed4c0a2f0b966a2418bd16bef43bbfa3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated water tiles-transp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 416
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3741eb7e561d3d46a7b77bf8333a858
+      internalID: 1469025386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 652
+        width: 224
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052920f015b0114eb30b8ab9acb22b5
+      internalID: -219136198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0f46d51a70544b996e2ae8880ece4
+      internalID: 2002943637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 525
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76b43416edc044eb5012f032d64c70
+      internalID: 100351679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 589
+        width: 224
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbdf36a6ba151c47bc141cf3b1a76c4
+      internalID: 1814758548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 608
+        width: 224
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f042c640afcc37499a88a40e289eff9
+      internalID: 180535502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 224
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde24e8f3b74184d940895e4deeb467
+      internalID: 2101926557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 224
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c200278630f847b66321f34bb7cc9
+      internalID: 725628522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310196190b6f59649a896270de4a7461
+      internalID: -1019250585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baddf6d18b84b1f46ab68e945672fabc
+      internalID: 548278988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccab21423bcb069459c9a7b3930c619e
+      internalID: -801188985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91497c18dd441438d759a5b46f73bd
+      internalID: 1874631628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c08b7f43d0e274fb8bc09112f6d1bd
+      internalID: -2020765391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9b7b16dce7a04981458371321d7ec
+      internalID: -921325282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a622a5a0535417841bea7bad214c1af8
+      internalID: 665820800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 416
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cade64145424e64e8324ad470b7c3b8
+      internalID: -495430078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce9a1b9b0fe254bb031b518aa39678
+      internalID: 983883855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482ee15ebc648448b957b96d9472e7a
+      internalID: -519400130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 364
+        width: 256
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36875da6fe4976b4e89ca485d27c5ba8
+      internalID: 1002292515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 268
+        width: 256
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c9b24cd2c99b747bd74a6592fdb3d5
+      internalID: -1737732030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 256
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e8a74d0bf7a034c83e54b689a25bec
+      internalID: 110436718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce06ac60cf513c4792d45da6b1d0729
+      internalID: -865707642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840125f2da53bf468a39519fb9bc297
+      internalID: -51881643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa38ec9ad01364985389fd0115c146
+      internalID: 1504264291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ed9bf79932b04a802463eab093aa7
+      internalID: -1616365397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da50d0814232b945bd4f888d99836d1
+      internalID: -1667353134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40d0901de2c76459e443c225a223bc
+      internalID: 1331811967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae03249b8d11f5244a9374e74698b981
+      internalID: -98079942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c85a7dd539e249b57ffbe5bc6cdcb
+      internalID: -1596267581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 256
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328c5ccbda561149957c4e298142d46
+      internalID: 1035082044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ad36b8a9dcad45b7d62e75eb5eba3
+      internalID: -1670206787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409efda188b87b439781e3439f814e2
+      internalID: 1228720524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd6bfd4787fdc44bd1578c3da109de
+      internalID: 1921704374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45194617ecdc49047913d0aef2b6d4fb
+      internalID: -828092610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51a412eb43680645a4db3eda8052f73
+      internalID: 827897513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5c4b50cb16d554194f9cb38ab2a3f4
+      internalID: -1477722669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572faef5b78268d4a95384b852ce643f
+      internalID: 75777053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b64381df009124ea92e56bbb969b48
+      internalID: 2070332855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 204
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38487dd7fe65584db853847abd09fbb
+      internalID: 742500203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 172
+        width: 256
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb4a0a26c4b494dbcced275f1775a6
+      internalID: 1031465269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea167662daaa4dd4089a9f48e90cc128
+      internalID: 1999789101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db6e02b6f22b848b1a594568341c64
+      internalID: -1821572048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8c8244a2865b43a9bce2b393330cf
+      internalID: 1374195042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0a2b325388aa42af6ff77183a8e00
+      internalID: -670499856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f734c3ca5e0149b037f46fff3cddd
+      internalID: 444833596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fd29887b64244489c2bdbb15be3d5
+      internalID: -1105834686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12fe91de9bf162429314285f99b52db
+      internalID: -902699254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf09cb8c8b03304f97f67b85e1bdcbd
+      internalID: -2049512141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde5caffbece694684ee16c61f6c5cf
+      internalID: -1600310876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 256
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb3cbecb3d46240b6d269df7585fdc
+      internalID: 1341687247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles-transp_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02975205344e59f41b345f6ddd1e76a7
+      internalID: 1101188835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Animated water tiles-transp_0: 1469025386
+      Animated water tiles-transp_1: -219136198
+      Animated water tiles-transp_10: -801188985
+      Animated water tiles-transp_11: 1874631628
+      Animated water tiles-transp_12: -2020765391
+      Animated water tiles-transp_13: -921325282
+      Animated water tiles-transp_14: 665820800
+      Animated water tiles-transp_15: -495430078
+      Animated water tiles-transp_16: 983883855
+      Animated water tiles-transp_17: -519400130
+      Animated water tiles-transp_18: 1002292515
+      Animated water tiles-transp_19: -1737732030
+      Animated water tiles-transp_2: 2002943637
+      Animated water tiles-transp_20: 110436718
+      Animated water tiles-transp_21: -865707642
+      Animated water tiles-transp_22: -51881643
+      Animated water tiles-transp_23: 1504264291
+      Animated water tiles-transp_24: -1616365397
+      Animated water tiles-transp_25: -1667353134
+      Animated water tiles-transp_26: 1331811967
+      Animated water tiles-transp_27: -98079942
+      Animated water tiles-transp_28: -1596267581
+      Animated water tiles-transp_29: 1035082044
+      Animated water tiles-transp_3: 100351679
+      Animated water tiles-transp_30: -1670206787
+      Animated water tiles-transp_31: 1228720524
+      Animated water tiles-transp_32: 1921704374
+      Animated water tiles-transp_33: -828092610
+      Animated water tiles-transp_34: 827897513
+      Animated water tiles-transp_35: -1477722669
+      Animated water tiles-transp_36: 75777053
+      Animated water tiles-transp_37: 2070332855
+      Animated water tiles-transp_38: 742500203
+      Animated water tiles-transp_39: 1031465269
+      Animated water tiles-transp_4: 1814758548
+      Animated water tiles-transp_40: 1999789101
+      Animated water tiles-transp_41: -1821572048
+      Animated water tiles-transp_42: 1374195042
+      Animated water tiles-transp_43: -670499856
+      Animated water tiles-transp_44: 444833596
+      Animated water tiles-transp_45: -1105834686
+      Animated water tiles-transp_46: -902699254
+      Animated water tiles-transp_47: -2049512141
+      Animated water tiles-transp_48: -1600310876
+      Animated water tiles-transp_49: 1341687247
+      Animated water tiles-transp_5: 180535502
+      Animated water tiles-transp_50: 1101188835
+      Animated water tiles-transp_6: 2101926557
+      Animated water tiles-transp_7: 725628522
+      Animated water tiles-transp_8: -1019250585
+      Animated water tiles-transp_9: 548278988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
